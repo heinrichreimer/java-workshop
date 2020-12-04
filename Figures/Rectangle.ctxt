@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=width\ height
+comment1.target=Rectangle(double,\ double)
+comment1.text=\r\n\ Constructs\ a\ new\ rectangle\ with\ a\ given\ width\ and\ height.\r\n\r\n\ @param\ width\ The\ rectangle's\ width\ in\ meters.\r\n\ @param\ height\ The\ rectangle's\ height\ in\ meters.\r\n
+comment2.params=width\ height\ fillColor
+comment2.target=Rectangle(double,\ double,\ Color)
+comment2.text=\r\n\ Constructs\ a\ new\ rectangle\ with\ a\ given\ width\ and\ height.\r\n\r\n\ @param\ width\ The\ rectangle's\ width\ in\ meters.\r\n\ @param\ height\ The\ rectangle's\ height\ in\ meters.\r\n\ @param\ color\ The\ color\ the\ rectangle\ should\ be\ filled\ with.\r\n
+comment3.params=width
+comment3.target=void\ setWidth(double)
+comment4.params=
+comment4.target=double\ getWidth()
+comment5.params=height
+comment5.target=void\ setHeight(double)
+comment6.params=
+comment6.target=double\ getHeight()
+comment7.params=
+comment7.target=double\ getArea()
+comment8.params=
+comment8.target=double\ getScope()
+numComments=9

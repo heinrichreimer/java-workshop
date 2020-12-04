@@ -1,0 +1,6 @@
+@echo Compiling Java source files...
+@javac -cp ".;junit-4.10.jar" MathTestRunner.java
+@echo Running tests...
+@java -cp ".;junit-4.10.jar" MathTestRunner
+@echo Tests completed
+@pause

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=radius
+comment1.target=Circle(double)
+comment1.text=\r\n\ Constructs\ a\ new\ circle\ with\ a\ given\ radius.\r\n\r\n\ @param\ radius\ The\ circle's\ radius\ in\ meters.\r\n
+comment2.params=radius\ fillColor
+comment2.target=Circle(double,\ Color)
+comment2.text=\r\n\ Constructs\ a\ new\ circle\ with\ a\ given\ radius.\r\n\r\n\ @param\ radius\ The\ circle's\ radius\ in\ meters.\r\n\ @param\ color\ The\ color\ the\ circle\ should\ be\ filled\ with.\r\n
+comment3.params=radius
+comment3.target=void\ setRadius(double)
+comment4.params=
+comment4.target=double\ getRadius()
+comment5.params=
+comment5.target=double\ getArea()
+comment6.params=
+comment6.target=double\ getScope()
+numComments=7

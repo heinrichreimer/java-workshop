@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Square
+comment1.params=length
+comment1.target=Square(double)
+comment1.text=\r\n\ Constructs\ a\ new\ rectangle\ with\ a\ given\ side\ length.\r\n\r\n\ @param\ length\ The\ rectangle's\ side\ length\ in\ meters.\r\n
+comment2.params=length\ fillColor
+comment2.target=Square(double,\ Color)
+comment2.text=\r\n\ Constructs\ a\ new\ rectangle\ with\ a\ given\ side\ length.\r\n\r\n\ @param\ length\ The\ rectangle's\ side\ length\ in\ meters.\r\n\ @param\ color\ The\ color\ the\ square\ should\ be\ filled\ with.\r\n
+comment3.params=width\ height
+comment3.target=Square(double,\ double)
+comment3.text=\r\n\ @hide\r\n\r\n\ Constructs\ a\ new\ rectangle\ with\ a\ width\ and\ height.\r\n\ This\ is\ only\ used\ to\ override\ the\ constructor\ of\ its\ superclass\ and\ should\ not\ be\ used.\r\n\ Calculates\ the\ average\ of\ the\ width\ and\ height\ to\ use\ as\ side\ length.\r\n\r\n\ @param\ width\ The\ rectangle's\ width\ in\ meters.\r\n\ @param\ height\ The\ rectangle's\ height\ in\ meters.\r\n
+comment4.params=width\ height\ fillColor
+comment4.target=Square(double,\ double,\ Color)
+comment4.text=\r\n\ @hide\r\n\r\n\ Constructs\ a\ new\ rectangle\ with\ a\ width\ and\ height.\r\n\ This\ is\ only\ used\ to\ override\ the\ constructor\ of\ its\ superclass\ and\ should\ not\ be\ used.\r\n\ Calculates\ the\ average\ of\ the\ width\ and\ height\ to\ use\ as\ side\ length.\r\n\r\n\ @param\ width\ The\ rectangle's\ width\ in\ meters.\r\n\ @param\ height\ The\ rectangle's\ height\ in\ meters.\r\n\ @param\ color\ The\ color\ the\ square\ should\ be\ filled\ with.\r\n
+comment5.params=length
+comment5.target=void\ setLength(double)
+comment6.params=
+comment6.target=double\ getLength()
+comment7.params=width
+comment7.target=void\ setWidth(double)
+comment7.text=\r\n\ Sets\ the\ rectangle's\ width\ and\ syncs\ the\ height\ to\ the\ same\ value\ as\ it\ is\ a\ square.\r\n\r\n\ @param\ width\ The\ rectangle's\ side\ length\ in\ meters.\r\n
+comment8.params=height
+comment8.target=void\ setHeight(double)
+comment8.text=\r\n\ Sets\ the\ rectangle's\ height\ and\ syncs\ the\ width\ to\ the\ same\ value\ as\ it\ is\ a\ square.\r\n\r\n\ @param\ width\ The\ rectangle's\ side\ length\ in\ meters.\r\n
+numComments=9

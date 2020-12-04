@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Figure
+comment1.params=
+comment1.target=Figure()
+comment1.text=\r\n\ Constructs\ a\ new\ figure\ with\ a\ black\ fill\ color.\r\n\ Subclasses\ must\ override\ this\ constructor.\r\n
+comment2.params=fillColor
+comment2.target=Figure(Color)
+comment2.text=\r\n\ Constructs\ a\ new\ figure\ with\ a\ given\ fill\ color.\r\n\ Subclasses\ must\ override\ this\ constructor.\r\n\r\n\ @param\ color\ The\ color\ the\ figure\ should\ be\ filled\ with.\r\n
+comment3.params=fillColor
+comment3.target=void\ setFillColor(Color)
+comment4.params=
+comment4.target=Color\ getFillColor()
+comment5.params=
+comment5.target=double\ getArea()
+comment5.text=\r\n\ Returns\ the\ area\ of\ the\ whole\ figure.\r\n\ Subclasses\ must\ override\ this\ method\ with\ their\ own\ calculations.\r\n\ @return\ The\ figure's\ area\ in\ squaremeters.\r\n
+comment6.params=
+comment6.target=double\ getScope()
+comment6.text=\r\n\ Returns\ the\ scope\ of\ the\ whole\ figure.\r\n\ Subclasses\ must\ override\ this\ method\ with\ their\ own\ calculations.\r\n\ @return\ The\ figure's\ scope\ in\ meters.\r\n
+numComments=7
